@@ -1,4 +1,4 @@
-# step-by-step
+# step-by-step - AI language tutor 
 
 ## Project setup
 ```
